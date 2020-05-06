@@ -13,3 +13,6 @@ Os comandos a seguir devem ser utilizados quando você realiza um fork de outro 
 
 #### Realizar o merge
 - Unir as atualizações com o projeto local: <code>git merge upstream/master</code>
+
+#### Atualizar repositório local
+- Enviando as alterações para meu repositório local: <code>git push origin master</code>
