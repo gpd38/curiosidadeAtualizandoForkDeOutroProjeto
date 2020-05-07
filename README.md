@@ -1,4 +1,4 @@
-# Atualizando Fork de um Projeto 
+# Atualizando Fork Local
 Os comandos a seguir devem ser utilizados quando você realiza um fork de outro projeto que possui atualizações novas.
 
 #### Configurando um remote
